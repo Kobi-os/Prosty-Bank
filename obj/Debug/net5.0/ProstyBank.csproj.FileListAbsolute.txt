@@ -1,0 +1,32 @@
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/bin/Debug/net5.0/ProstyBank
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/bin/Debug/net5.0/ProstyBank.deps.json
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/bin/Debug/net5.0/ProstyBank.runtimeconfig.json
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/bin/Debug/net5.0/ProstyBank.runtimeconfig.dev.json
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/bin/Debug/net5.0/ProstyBank.dll
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/bin/Debug/net5.0/ProstyBank.pdb
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ProstyBank.csproj.AssemblyReference.cache
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ProstyBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ProstyBank.AssemblyInfoInputs.cache
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ProstyBank.AssemblyInfo.cs
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ProstyBank.csproj.CoreCompileInputs.cache
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ProstyBank.dll
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/refint/ProstyBank.dll
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ProstyBank.pdb
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ProstyBank.genruntimeconfig.cache
+/Users/michalniemczyk/Desktop/WSB/_Chorzow/_1_Programowanie_Obiektowe/Laboratoria/ProstyBank/obj/Debug/net5.0/ref/ProstyBank.dll
+C:\Users\Student\Desktop\Ponowna Próba\bin\Debug\net5.0\ProstyBank.exe
+C:\Users\Student\Desktop\Ponowna Próba\bin\Debug\net5.0\ProstyBank.deps.json
+C:\Users\Student\Desktop\Ponowna Próba\bin\Debug\net5.0\ProstyBank.runtimeconfig.json
+C:\Users\Student\Desktop\Ponowna Próba\bin\Debug\net5.0\ProstyBank.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Ponowna Próba\bin\Debug\net5.0\ProstyBank.dll
+C:\Users\Student\Desktop\Ponowna Próba\bin\Debug\net5.0\ref\ProstyBank.dll
+C:\Users\Student\Desktop\Ponowna Próba\bin\Debug\net5.0\ProstyBank.pdb
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.AssemblyInfo.cs
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.dll
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ref\ProstyBank.dll
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.pdb
+C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.genruntimeconfig.cache
