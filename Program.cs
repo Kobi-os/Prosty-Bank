@@ -22,13 +22,18 @@ namespace ProstyBank
         {
             BankAccount amount = new BankAccount("Wojtek", 200);
             Console.WriteLine();
-            amount.MakeDeposit(100, DateTime.Now, "Wpłata");
-            amount.MakeWithdraw(50, DateTime.Now, "Wypłata");
+            amount.MakeDeposit(500, DateTime.Now, "Wpłata");
+            amount.MakeWithdraw(200, DateTime.Now, "Wypłata");
             Console.WriteLine();
             amount.ListTransactionHistory();
             Console.WriteLine();
             amount.DisplayInfo();
             Console.WriteLine();
+            amount.GetLoan(800);
+            Console.WriteLine();
+            amount.LoanPayOff(500);
+            Console.WriteLine();
+            amount.RemainingLoan();
             Console.ReadKey();
         }
 

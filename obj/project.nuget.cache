@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UUxn4DCYcFWrRCkz9dRqF+/QYsFJkZsFcy7ddg0nZFV35m9MsYNFtuOry0KVx7WgD/dfGUH6n4f2804ax/5ovg==",
+  "dgSpecHash": "YgXSozgLk5WoNwJEo3Ka3lWVORDBqsktc7zzMtm/68+zR1iZ3V0PQmI0I1EgkGd8xA04+/fynlwV4Ch2tOinLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Desktop\\Ponowna Próba\\ProstyBank.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Wojtek\\Source\\Repos\\Prosty-Bank\\ProstyBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Wojtek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

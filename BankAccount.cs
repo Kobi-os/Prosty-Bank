@@ -9,11 +9,13 @@ namespace ProstyBank
     class BankAccount
     {
         private List<Transaction> AllTransactions = new List<Transaction>();
+        private List<Loan> Loans = new List<Loan>();
 
         private static UInt32 accountNumberSeed = 23232323;
         public UInt32 Number { get; }
         public string Owner { get; set; }
         private decimal balance;
+        public decimal currentLoanAmount = 0;
 
         public decimal Balance
         {
@@ -56,9 +58,9 @@ namespace ProstyBank
         {
             Console.WriteLine($"Dokonano wypłaty o kwocie: {amount}");
 
-            if (amount <= 0 &&  balance < amount)
+            if (balance <= amount)
             {
-                throw new ArgumentOutOfRangeException(nameof(amount), "Nie można wypłacić kwoty ujemnej");
+                throw new Exception("Nie można wypłacić kwoty ujemnej");
 
             } 
             else
@@ -82,6 +84,32 @@ namespace ProstyBank
         public void DisplayInfo()
         {
             Console.WriteLine($"Użytkownik: {Owner}, Numer Konta: {accountNumberSeed}, Saldo: {balance} ");
+        }
+
+        public void GetLoan(decimal amount)
+        {
+            Loan loanValue = new Loan(amount);
+            Loans.Add(loanValue);
+            if (amount > 1000)
+            {
+                throw new Exception("Kwota pożyczki nie może być większa niż 1000!");
+            }
+            else
+            {
+                currentLoanAmount += amount;
+                Console.WriteLine($"Pożyczona kwota wynosi {amount}");
+            }
+        }
+
+        public void LoanPayOff(decimal amountToPay)
+        {
+            currentLoanAmount -= amountToPay;
+            Console.WriteLine($"Spłacona ilośc pożyczki: {amountToPay}");
+        }
+
+        public void RemainingLoan()
+        {
+            Console.WriteLine($"Pozostała kwota do spłaty {currentLoanAmount}");
         }
 
     }

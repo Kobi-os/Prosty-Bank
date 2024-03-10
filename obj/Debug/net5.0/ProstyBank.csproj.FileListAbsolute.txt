@@ -30,3 +30,19 @@ C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.dll
 C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ref\ProstyBank.dll
 C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.pdb
 C:\Users\Student\Desktop\Ponowna Próba\obj\Debug\net5.0\ProstyBank.genruntimeconfig.cache
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\bin\Debug\net5.0\ProstyBank.exe
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\bin\Debug\net5.0\ProstyBank.deps.json
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\bin\Debug\net5.0\ProstyBank.runtimeconfig.json
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\bin\Debug\net5.0\ProstyBank.runtimeconfig.dev.json
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\bin\Debug\net5.0\ProstyBank.dll
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\bin\Debug\net5.0\ProstyBank.pdb
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ProstyBank.csproj.AssemblyReference.cache
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ProstyBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ProstyBank.AssemblyInfoInputs.cache
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ProstyBank.AssemblyInfo.cs
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ProstyBank.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ProstyBank.dll
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\refint\ProstyBank.dll
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ProstyBank.pdb
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ProstyBank.genruntimeconfig.cache
+C:\Users\Wojtek\Source\Repos\Prosty-Bank\obj\Debug\net5.0\ref\ProstyBank.dll
